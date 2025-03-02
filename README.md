@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skmachra
+- 👋 Hi, I’m Sunil Kumar
 
 <!---
 skmachra/skmachra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
